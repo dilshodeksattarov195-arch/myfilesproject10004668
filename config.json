@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productfalculate",
+        "uuid": 11567304,
+        "checksum": "jqbam"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
